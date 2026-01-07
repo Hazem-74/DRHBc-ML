@@ -1,6 +1,6 @@
 # Nuclear Data Analysis
 
-This directory contains Jupyter notebooks for acquiring, processing, and analyzing nuclear data. The notebooks demonstrate scientific computing techniques using Python, focusing on the exploration and visualization of various nuclear properties.
+A comprehensive machine learning framework that corrects theoretical predictions from nuclear Density Functional Theory (DRHBc model) using physics-informed feature engineering and Δ-learning approaches. This project significantly improves the accuracy of nuclear binding energies, charge radii, and separation energy predictions while maintaining physical consistency.
 
 ## Files
 
