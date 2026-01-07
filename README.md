@@ -65,7 +65,7 @@ A comprehensive machine learning framework that corrects theoretical predictions
 
 1. **Data Acquisition:** Run `Scraping Data.ipynb` to download and organize nuclear data
 2. **ML Analysis:** Run `Nuclear Data Analysis.ipynb` to perform comprehensive ML corrections
-3. **Report Generation:** Compile `Report/main.tex` to generate the final report
+3. **Report Generation:** Download `Report.pdf` to view the final report
 
 ## Key Innovations
 
