@@ -1,0 +1,21 @@
+column,description,units
+Z,Proton number,Z (integer)
+N,Neutron number,Z
+A,Mass number,Z
+Eb_cal,Binding energy from DRHBc calculations,MeV
+Ebrot_cal,Binding energy plus rotational correction,MeV
+Eb_exp,Experimental binding energy,MeV
+S2n,Two-neutron separation energy,MeV
+S2p,Two-proton separation energy,MeV
+Sn,One-neutron separation energy,MeV
+Rn,Neutron rms radius,fm
+Rp,Proton rms radius,fm
+Rm,Matter rms radius,fm
+Rch_cal,Charge radius from DRHBc calculations,fm
+Rch_exp,Experimental charge radius,fm
+beta_n,Neutron quadrupole deformation,Q (rational)
+beta_p,Proton quadrupole deformation,Q
+beta_t,Matter quadrupole deformation,Q
+lam_n,Neutron Fermi surface,MeV
+lam_p,Proton Fermi surface,MeV
+m^pi(N),Quantum numbers m^pi of the blocked neutron orbital,Q
